@@ -23,5 +23,8 @@ Thanh Truc - AI Team
 # Quá trình:
 
 - Tạo nhánh stag
-- Tạo nhánh dev và bắt đầu thực hiện:
+- Tạo nhánh dev và bắt đầu thực hiện
   - Tạo nhánh feature/css: tạo file css cho trang web
+  - Tạo nhánh feature/js
+  - Tình huống phát sinh (giả lập): lỡ thực hiện tạo file js trên nhánh css và commit lại -> dùng cherry-pick để pick commit đó qua nhánh mới (feature/js) và xóa commit đó ở nhánh css
+  - Vì nhánh feature/css đã được merge vào nhánh dev nên trước khi push sẽ pull nhánh dev về trước
