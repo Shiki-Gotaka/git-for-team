@@ -25,3 +25,4 @@ Thanh Truc - AI Team
 - Tạo nhánh stag
 - Tạo nhánh dev và bắt đầu thực hiện:
   - Tạo nhánh feature/data: thực hiện thêm hình ảnh vào
+  - Pull nhánh dev về, fix conflict nếu có, push lên nhánh feature/daa
