@@ -29,4 +29,6 @@ Thanh Truc - AI Team
   - Tình huống phát sinh (giả lập): lỡ thực hiện tạo file js trên nhánh css và commit lại -> dùng cherry-pick để pick commit đó qua nhánh mới (feature/js) và xóa commit đó ở nhánh css
   - Vì nhánh feature/css đã được merge vào nhánh dev nên trước khi push sẽ pull nhánh dev về trước
   - Tạo nhánh feature/data: thực hiện thêm hình ảnh vào
-  - Pull nhánh dev về, fix conflict nếu có, push lên nhánh feature/data
+  - Pull nhánh dev về trước khi push, fix conflict nếu có, commit lại và push lên nhánh feature/data
+  - Tạo nhánh feature/home: xây dựng nội dung trang chủ
+  - Pull nhánh dev về trước khi push, fix conflict nếu có, commit lại và push lên nhánh feature/home
