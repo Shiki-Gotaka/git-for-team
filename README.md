@@ -25,3 +25,4 @@ Thanh Truc - AI Team
 - Tạo nhánh stag
 - Tạo nhánh dev và bắt đầu thực hiện:
   - Tạo nhánh feature/home: xây dựng nội dung trang chủ
+  - Pull nhánh dev về trước khi push, fix conflict nếu có, commit lại và pull
