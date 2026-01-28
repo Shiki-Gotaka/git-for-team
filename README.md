@@ -23,3 +23,4 @@ Thanh Truc - AI Team
 # Quá trình:
 
 - Tạo nhánh stag
+- Tạo nhánh dev và bắt đầu thực hiện
