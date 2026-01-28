@@ -19,3 +19,7 @@ Thanh Truc - AI Team
   - dev (development)
   - stag (staging)
 - Repository architecture: Monolith
+
+# Quá trình:
+
+- Tạo nhánh stag
